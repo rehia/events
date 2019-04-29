@@ -7,5 +7,5 @@ layout: default
 {{ event.date | date_to_long_string }}
 
 {{ event.excerpt }}
-[En savoir plus...]({{ event.url }})
+[En savoir plus...]({{ site.baseurl }}{{ event.url }})
 {% endfor %}

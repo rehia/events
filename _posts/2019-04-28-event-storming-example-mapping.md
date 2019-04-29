@@ -8,7 +8,7 @@ public: tous
 excerpt_separator: <!--more-->
 ---
 <img alt="Event Storming" src="https://www.eventstorming.com/images/logo.58f4.png" width="45%">
-<img alt="Example Mapping" src="/assets/img/example-mapping.png" width="45%">
+<img alt="Example Mapping" src="{{ site.baseurl }}/assets/img/example-mapping.png" width="45%">
 
 # Le mardi 25 juin, à Cap Omega
 
@@ -33,7 +33,7 @@ Nous vous proposons de vivre une nouvelle expérience à travers un atelier où 
 [@brunoboucard](https://twitter.com/brunoboucard)
 
 <a href="https://twitter.com/brunoboucard" target="_blank">
-    <img alt="Bruno Boucard" src="/assets/img/bruno.jpeg">
+    <img alt="Bruno Boucard" src="{{ site.baseurl }}/assets/img/bruno.jpeg">
 </a>
 
 **Emancipating developers.**
@@ -45,7 +45,7 @@ Organizer of “BDD Paris” meetup, developer, software craftsman, speaker, tra
 [@tpierrain](https://twitter.com/tpierrain)
 
 <a href="https://twitter.com/tpierrain" target="_blank">
-    <img alt="Thomas Pierrain" src="/assets/img/thomas.jpeg">
+    <img alt="Thomas Pierrain" src="{{ site.baseurl }}/assets/img/thomas.jpeg">
 </a>
 
 **Change agent** (powered by Software).
