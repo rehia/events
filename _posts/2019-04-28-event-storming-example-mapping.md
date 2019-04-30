@@ -16,13 +16,13 @@ excerpt_separator: <!--more-->
 
 Je suis très heureux de profiter de la présence à Montpellier de Bruno et Thomas pour organiser cet atelier pour découvrir ou redécouvrir les ateliers d'**Event Storming** et d'**Example Mapping**.
 
-Bruno et Thomas se sont associés pour monter **42 skillz**, et faire profiter de leur expérience les équipes de développement avec lesquelles ils ont l'occasion de travailler. Ensemble, ils ont donné plusieurs talks et animé plusieurs workshops dont celui-ci dans plusieurs conférences renommées dans le monde du Domain Driven Design : DDD Europe, Kadddinsky, Explore DDD, ncrafts...
+Bruno et Thomas se sont associés pour monter **[42 skillz](http://www.42skillz.com/)**, et faire profiter de leur expérience les équipes de développement avec lesquelles ils ont l'occasion de travailler. Ensemble, ils ont donné plusieurs talks et animé plusieurs workshops dont celui-ci dans plusieurs conférences renommées dans le monde du Domain Driven Design : DDD Europe, Kadddinsky, Explore DDD, ncrafts...
 
 L'atelier qu'ils proposent est donc rodé. Il ne manque plus que vous !
 
 ## Description
 
-Découvrir l’inconnu n’est pas facile, et dans ce domaine l’Event Storming est devenu un standard de fait. D’un autre côté l’Example Mapping est une arme redoutable pour distiller une user story à base d’exemples concrets (et sans s’emmêler les pinceaux avec du Ghekin).
+Découvrir l’inconnu n’est pas facile, et dans ce domaine l’Event Storming est devenu un standard de fait. D’un autre côté l’Example Mapping est une arme redoutable pour distiller une user story à base d’exemples concrets (et sans s’emmêler les pinceaux avec du Gherkin).
 
 Nous vous proposons de vivre une nouvelle expérience à travers un atelier où vous pratiquerez ensemble un Event Storming renforcé par l’Example Mapping.
 
