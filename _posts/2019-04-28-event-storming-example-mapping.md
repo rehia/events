@@ -63,3 +63,11 @@ L'atelier aura lieu le **mardi 25 juin** à partir de **18h45**, dans les locaux
 Les inscriptions ont lieu [sur le site Eventbrite](https://www.eventbrite.com/e/vivre-lexperience-dun-event-storming-energise-par-lexample-mapping-tickets-61074309905).
 
 Attention, il n'y a que **40 places** !!
+
+## Partenaires
+
+Merci à [Elium](https://www.elium.com/) pour leur aide pour la salle !
+
+<a href="https://www.elium.com" target="_blank">
+    <img alt="Elium" src="{{ site.baseurl }}/assets/img/elium.png" width="200">
+</a>
