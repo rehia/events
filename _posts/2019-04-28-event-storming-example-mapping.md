@@ -63,3 +63,17 @@ L'atelier aura lieu le **mardi 25 juin** à partir de **18h45**, dans les locaux
 Les inscriptions ont lieu [sur le site Eventbrite](https://www.eventbrite.com/e/vivre-lexperience-dun-event-storming-energise-par-lexample-mapping-tickets-61074309905).
 
 Attention, il n'y a que **40 places** !!
+
+## Partenaires
+
+Merci au [MTH](https://www.montpellier-techhub.org) et au meetup [Functional Programming](https://www.meetup.com/fr-FR/Functional-Programming-Montpellier/) pour les victuailles.
+
+<a href="https://www.montpellier-techhub.org" target="_blank">
+    <img alt="Elium" src="{{ site.baseurl }}/assets/img/mth.svg" height="200">
+</a>
+
+Merci à [Elium](https://elium.io/) pour leur aide pour la salle !
+
+<a href="https://elium.io" target="_blank">
+    <img alt="Elium" src="https://elium.io/wp-content/uploads/2018/10/elium_logo.svg" height="200">
+</a>
